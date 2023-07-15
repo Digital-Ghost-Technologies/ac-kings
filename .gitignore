@@ -54,3 +54,10 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # Optional stylelint cache
 .stylelintcache
+# Local Netlify folder
+.netlify
+
+#firebase
+**/.firebase
+**/.firebaserc
+**/.firebase-debug.log
